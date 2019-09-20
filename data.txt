@@ -1,0 +1,7 @@
+[{"diff_level": 2, "question": "Koliko je 12+5 ?", "answer": ["17"]}, {"diff_level": 2, "question": "Koliko je 17-11 ?", "answer": ["6"]}, {"diff_level": 2, "question": "Koliko je 14+13 ?", "answer": ["27"]}, {"diff_level": 2, "question": "Koliko je 23-5 ?", "answer": ["18"]}, {"diff_level": 2, "question": "Koliko je 22+11 ?", "answer": ["33"]},{"diff_level": 2, "question": "Koliko je 43-11 ?", "answer": ["32"]},
+{"diff_level": 2, "question": "Koliko je 17+8 ?", "answer": ["25"]},{"diff_level": 2, "question": "Koliko je 56-7 ?", "answer": ["49"]},
+{"diff_level": 3, "question": "Koliko je 53-19 ?", "answer": ["34"]},{"diff_level": 3, "question": "Koliko je 46-18 ?", "answer": ["28"]},
+{"diff_level": 3, "question": "Koliko je 44-29 ?", "answer": ["15"]},{"diff_level": 3, "question": "Koliko je 76-58 ?", "answer": ["18"]},
+{"diff_level": 3, "question": "Koliko je 43-15 ?", "answer": ["28"]},{"diff_level": 3, "question": "Koliko je 65-47 ?", "answer": ["18"]},
+{"diff_level": 4, "question": "Koliko je 29-(2+11) ?", "answer": ["16"]},{"diff_level": 4, "question": "Koliko je 84-(15+13) ?", "answer": ["56"]},
+{"diff_level": 4, "question": "Koliko je 44+(13-5) ?", "answer": ["52"]},{"diff_level": 4, "question": "Koliko je 37+(35-17) ?", "answer": ["55"]}]
